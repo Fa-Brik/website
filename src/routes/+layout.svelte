@@ -2,14 +2,14 @@
 	import '../app.css';
 </script>
 
-<div class="bg-[#F7A600] min-h-screen p-4">
-	<div class="bg-black rounded-xl p-8 text-white pb-12 bg-opacity-50 max-w-[800px] mx-auto">
-		<img src="/logo.png" alt="logo" class="w-[200px] mx-auto" />
+<div class="min-h-screen bg-[#F7A600] p-4">
+	<div class="mx-auto max-w-[800px] rounded-xl bg-black bg-opacity-50 p-8 pb-12 text-white">
+		<img src="/logo.png" alt="logo" class="mx-auto w-[200px]" />
 		<h2 class="text-center text-3xl">
-			Op dit moment is onze site in onderhoud. <br />Je kunt ons altijd bereiken met de volgende
+			Op dit moment is onze site in onderhoud. <br />We zijn altijd bereikbaar met de volgende
 			gegevens:
 		</h2>
-		<p class="text-center text-xl mt-4">
+		<p class="mt-4 text-center text-xl">
 			<a href="mailto:info@fa-brik.nl" class="text-white underline">info@fa-brik.nl</a>
 			<br />
 			<a href="tel:06-46843606" class="text-white underline">06-46843606 (Eric Schenkel)</a>
